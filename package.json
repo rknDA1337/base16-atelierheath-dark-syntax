@@ -1,0 +1,20 @@
+{
+  "name": "base16-atelierheath-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A port of the Base16 Atelier Heath dark syntax theme from atelierbram/syntax-highlighting@github to Atom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rknDA1337/base16-atelierheath-dark-syntax.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# First!",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/brandonweiss/atom-base16-atelierheath-dark-syntax/issues"
+  },
+  "homepage": "https://github.com/brandonweiss/atom-base16-atelierheath-dark-syntax#readme"
+}
